@@ -12,7 +12,7 @@
 <p align="center">
   <a href="mailto:sreehariarun191@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/sreehari-a-l/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Website-Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="http://sreeharial.me/"><img src="https://img.shields.io/badge/Website-Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/SR33H4R1"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
@@ -91,7 +91,7 @@ Open to AI Engineer, GenAI Backend Engineer, and Applied AI roles.
 <p>
   <a href="mailto:sreehariarun191@gmail.com"><img src="https://img.shields.io/badge/Email-sreehariarun191%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/sreehari-a-l/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Website-Portfolio-14B8A6?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="http://sreeharial.me/"><img src="https://img.shields.io/badge/Website-Portfolio-14B8A6?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/SR33H4R1"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 </p>
 
