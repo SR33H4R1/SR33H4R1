@@ -1,11 +1,12 @@
 <h1 align="center">Sreehari A L</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,30:1e3a8a,70:2563eb,100:38bdf8&text=AI%20Engineer%20%7C%20Backend-First%20GenAI&fontColor=ffffff&fontSize=28&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=AI%20Engineer%20%7C%20Backend-First%20GenAI&fontSize=34&fontColor=ffffff&stroke=0&color=0:0f172a,35:1d4ed8,70:2563eb,100:38bdf8" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=19&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Python+%7C+FastAPI+%7C+RAG+%7C+LangChain+%7C+Ollama;I+build+source-grounded+AI+systems+for+real+use;Typed+APIs%2C+structured+outputs%2C+reliable+execution" alt="typing intro" />
+  <strong>Python | FastAPI | RAG | LangChain | Ollama</strong><br/>
+  I build source-grounded AI systems with typed APIs, structured outputs, and reliable execution.
 </p>
 
 <p align="center">
@@ -15,11 +16,13 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SR33H4R1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR33H4R1&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=SR33H4R1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=2563eb&icon_color=2563eb&text_color=64748b" alt="stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR33H4R1&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b" alt="languages" />
 </p>
 
-## Impact Snapshot
+---
+
+## Profile Summary
 
 - Build retrieval-grounded AI systems with structured outputs for dependable API and tool integration.
 - Design FastAPI services with typed contracts, validation-first boundaries, and clear failure handling.
@@ -29,31 +32,33 @@
 
 <table>
   <tr>
-	<td width="33%">
+	<td width="33%" valign="top">
 	  <h3>AI Code Review Assistant</h3>
 	  <p>Automated Python review and security triage pipeline.</p>
-	  <p><strong>Signal:</strong> Multi-stage review flow + structured scan outputs.</p>
-	  <p><strong>Stack:</strong> Python, LangChain, Ollama</p>
-	  <p><a href="https://github.com/SR33H4R1/ai-code-review-assistant">Repository</a></p>
+	  <p><strong>Signal</strong>: Multi-stage review flow and structured scan outputs.</p>
+	  <p><strong>Stack</strong>: Python, LangChain, Ollama</p>
+	  <p><a href="https://github.com/SR33H4R1/ai-code-review-assistant">View Repository</a></p>
 	</td>
-	<td width="33%">
+	<td width="33%" valign="top">
 	  <h3>AI Supreme Court</h3>
 	  <p>Debate-style reasoning engine with schema-constrained verdicts.</p>
-	  <p><strong>Signal:</strong> Prompt chaining with controlled reasoning stages.</p>
-	  <p><strong>Stack:</strong> Python, LangChain</p>
-	  <p><a href="https://github.com/SR33H4R1/ai-supreme-court">Repository</a></p>
+	  <p><strong>Signal</strong>: Prompt chaining with controlled reasoning stages.</p>
+	  <p><strong>Stack</strong>: Python, LangChain</p>
+	  <p><a href="https://github.com/SR33H4R1/ai-supreme-court">View Repository</a></p>
 	</td>
-	<td width="33%">
+	<td width="33%" valign="top">
 	  <h3>Local Math Agent</h3>
 	  <p>Natural language to deterministic JSON tool-call agent.</p>
-	  <p><strong>Signal:</strong> Strict prompt contracts + predictable routing.</p>
-	  <p><strong>Stack:</strong> Python, Ollama, Llama</p>
-	  <p><a href="https://github.com/SR33H4R1/Local-Math-Agent-Llama3">Repository</a></p>
+	  <p><strong>Signal</strong>: Strict prompt contracts and predictable routing.</p>
+	  <p><strong>Stack</strong>: Python, Ollama, Llama</p>
+	  <p><a href="https://github.com/SR33H4R1/Local-Math-Agent-Llama3">View Repository</a></p>
 	</td>
   </tr>
 </table>
 
 ## Tech Stack
+
+<strong>AI and Backend</strong><br/>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -62,6 +67,11 @@
   <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square" alt="LangChain" />
   <img src="https://img.shields.io/badge/RAG-1F6FEB?style=flat-square" alt="RAG" />
   <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square" alt="Ollama" />
+</p>
+
+<strong>Data and Delivery</strong><br/>
+
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
