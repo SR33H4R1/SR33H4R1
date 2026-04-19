@@ -1,72 +1,53 @@
-<h1 align="center">Sreehari A L</h1>
+# Sreehari A L
 
-<p align="center">
-  <strong>AI Engineer</strong> building backend-first GenAI systems with <strong>Python</strong>, <strong>FastAPI</strong>, <strong>RAG</strong>, and <strong>local LLM workflows</strong>.
-</p>
+AI Engineer focused on backend-first GenAI systems using Python, FastAPI, RAG, and local LLM workflows.
 
-<p align="center">
-  <a href="mailto:sreehariarun191@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" /></a>
-  <a href="https://www.linkedin.com/in/sreehari-a-l/"><img src="https://img.shields.io/badge/LinkedIn-Sreehari%20A%20L-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/SR33H4R1"><img src="https://img.shields.io/badge/GitHub-SR33H4R1-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-</p>
+Target roles: AI Engineer, GenAI Backend Engineer, Applied AI Engineer.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SR33H4R1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR33H4R1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+## Impact Snapshot
 
-## What I Build
+- Build retrieval-grounded AI systems with structured outputs that are safe for API and tool integration.
+- Design FastAPI services with typed contracts, validation-first boundaries, and predictable failure handling.
+- Ship local-LLM workflows with deterministic routing and inspectable execution paths.
 
-- Source-grounded RAG systems with citation-aware responses.
-- FastAPI services with typed contracts, validation, and clear failure boundaries.
-- Local LLM apps with deterministic JSON outputs and tool routing.
-
-## Featured Projects
+## Selected Work
 
 ### AI Code Review Assistant
 
-Automated Python code review and security triage pipeline.
+Automates Python code review and security triage with local model execution.
 
-- Repo: https://github.com/SR33H4R1/ai-code-review-assistant
-- Focus: explainable review stages, structured scan output, local model execution
+- Repository: https://github.com/SR33H4R1/ai-code-review-assistant
+- Problem solved: manual review is slow and inconsistent for repeated quality checks.
+- Engineering signal: multi-stage review flow with structured scan output and explainable feedback.
 - Stack: Python, LangChain, Ollama
 
 ### AI Supreme Court
 
-Debate-style multi-agent reasoning engine that returns schema-constrained verdicts.
+Runs a debate-style reasoning pipeline that outputs schema-constrained verdicts.
 
-- Repo: https://github.com/SR33H4R1/ai-supreme-court
-- Focus: prompt chaining, controlled reasoning flow, structured final output
+- Repository: https://github.com/SR33H4R1/ai-supreme-court
+- Problem solved: evaluating topics from opposing viewpoints with consistent structure.
+- Engineering signal: prompt chaining architecture with controlled reasoning stages and deterministic output shape.
 - Stack: Python, LangChain
 
 ### Local Math and Algorithm Agent
 
-Natural-language to deterministic JSON tool-call agent running on local Llama.
+Converts natural language requests into deterministic JSON tool calls using local Llama.
 
-- Repo: https://github.com/SR33H4R1/Local-Math-Agent-Llama3
-- Focus: strict prompt contracts, predictable routing, local inference reliability
+- Repository: https://github.com/SR33H4R1/Local-Math-Agent-Llama3
+- Problem solved: reliable local execution for math and algorithm tasks without external APIs.
+- Engineering signal: strict prompting contracts and predictable routing for tool selection.
 - Stack: Python, Ollama, Llama
 
-## Tech Focus
+## Fit for AI/Backend Teams
 
-| Area | Tools |
+| Track | Capabilities |
 | --- | --- |
-| AI Engineering | RAG, LangChain, embeddings, structured generation |
-| Backend | FastAPI, Pydantic, SQLAlchemy, REST API design |
-| Data | PostgreSQL, SQL, relational modeling, pgvector-aware patterns |
-| Quality | pytest, deterministic outputs, explicit error boundaries |
-| Delivery | Docker, GitHub Actions, Git/GitHub |
-
-## Currently Improving
-
-- Production architecture patterns for FastAPI-based AI services.
-- Retrieval quality and answer-grounding in RAG pipelines.
-- Observability and fault-handling for reliable AI backend operations.
-
-## Open To
-
-- AI Engineer and Backend AI roles.
-- Applied GenAI product work and technical collaborations.
+| AI Systems | RAG pipelines, retrieval grounding, structured generation |
+| Backend | FastAPI, Pydantic, SQLAlchemy, REST contracts |
+| Data | PostgreSQL, SQL workflows, relational modeling, pgvector-aware patterns |
+| Reliability | deterministic outputs, error boundaries, inspectable behavior |
+| Delivery | Docker, pytest, GitHub Actions, Git/GitHub |
 
 ## Contact
 
