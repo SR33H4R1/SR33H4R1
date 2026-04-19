@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Python | FastAPI | RAG | LangChain | Ollama</strong><br/>
-  Building source-grounded AI systems with typed APIs, structured outputs, and reliable execution.
+  I build source-grounded AI systems with typed APIs, structured outputs, and production-focused reliability.
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR33H4R1&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b" alt="Top languages" />
 </p>
 
+---
+
 ## Value Snapshot
 
 - Build retrieval-grounded AI systems with structured outputs for dependable API and tool integration.
@@ -28,11 +30,11 @@
 
 ## Featured Projects
 
-| Project | What It Does | Engineering Signal | Stack |
-| --- | --- | --- | --- |
-| [AI Code Review Assistant](https://github.com/SR33H4R1/ai-code-review-assistant) | Automated Python review and security triage pipeline | Multi-stage review flow with structured scan outputs | Python, LangChain, Ollama |
-| [AI Supreme Court](https://github.com/SR33H4R1/ai-supreme-court) | Debate-style reasoning engine with schema-constrained verdicts | Prompt chaining with controlled reasoning stages | Python, LangChain |
-| [Local Math Agent](https://github.com/SR33H4R1/Local-Math-Agent-Llama3) | Natural language to deterministic JSON tool calls | Strict prompt contracts and predictable routing | Python, Ollama, Llama |
+| Project | Why It Stands Out | Stack |
+| --- | --- | --- |
+| [AI Code Review Assistant](https://github.com/SR33H4R1/ai-code-review-assistant) | Multi-stage Python review and security triage with structured outputs and explainable feedback | Python, LangChain, Ollama |
+| [AI Supreme Court](https://github.com/SR33H4R1/ai-supreme-court) | Debate-style reasoning pipeline with prompt chaining and schema-constrained verdict generation | Python, LangChain |
+| [Local Math Agent](https://github.com/SR33H4R1/Local-Math-Agent-Llama3) | Natural language to deterministic JSON tool calls via strict prompting and predictable routing | Python, Ollama, Llama |
 
 ## Tech Stack
 
@@ -57,11 +59,17 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-## Opportunities and Contact
+## Opportunities
 
 Open to AI Engineer, GenAI Backend Engineer, and Applied AI roles.
 
-- Email: `sreehariarun191@gmail.com`
-- LinkedIn: `https://www.linkedin.com/in/sreehari-a-l/`
-- GitHub: `https://github.com/SR33H4R1`
+## Contact
+
+<p>
+  <a href="mailto:sreehariarun191@gmail.com"><img src="https://img.shields.io/badge/Email-sreehariarun191%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sreehari-a-l/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/SR33H4R1"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+</p>
+
+> Building practical AI systems that work beyond demos.
 
