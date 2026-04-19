@@ -1,0 +1,32 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sreehari A L profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#1E3A8A"/>
+      <stop offset="0.75" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#60A5FA" stop-opacity="0.12"/>
+      <stop offset="0.5" stop-color="#93C5FD" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#E0F2FE" stop-opacity="0.16"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D4ED8" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0.22"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="420" rx="26" fill="url(#bg)"/>
+
+  <path d="M0 300C140 280 250 340 420 320C600 298 760 256 940 266C1130 276 1260 336 1450 310C1510 302 1560 292 1600 282V420H0V300Z" fill="url(#wave)"/>
+  <path d="M0 330C150 304 330 360 500 344C680 328 860 292 1060 304C1250 316 1430 356 1600 338V420H0V330Z" fill="url(#wave2)"/>
+
+  <text x="800" y="178" text-anchor="middle" fill="#F8FAFC" font-size="56" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="700">AI Engineer | Backend-First GenAI</text>
+  <text x="800" y="236" text-anchor="middle" fill="#DBEAFE" font-size="28" font-family="Segoe UI, Inter, Arial, sans-serif" font-weight="500">Sreehari A L</text>
+
+  <circle cx="136" cy="120" r="5" fill="#BFDBFE" fill-opacity="0.8"/>
+  <circle cx="1460" cy="92" r="6" fill="#BAE6FD" fill-opacity="0.7"/>
+  <circle cx="1492" cy="126" r="3.5" fill="#93C5FD" fill-opacity="0.7"/>
+</svg>
+

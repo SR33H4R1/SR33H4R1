@@ -1,7 +1,7 @@
 <h1 align="center">Sreehari A L</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=AI%20Engineer%20%7C%20Backend-First%20GenAI&fontSize=32&fontAlignY=34&fontColor=ffffff&color=0:0b1220,35:1e3a8a,70:2563eb,100:38bdf8" alt="Sreehari profile banner" />
+  <img src="./assets/profile-banner.svg" alt="Sreehari profile banner" />
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="mailto:sreehariarun191@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sreehari-a-l/"><img src="https://img.shields.io/badge/LinkedIn-Sreehari%20A%20L-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/SR33H4R1"><img src="https://img.shields.io/badge/GitHub-SR33H4R1-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sreehari-a-l/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/SR33H4R1"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
 <p align="center">
@@ -24,17 +24,39 @@
 
 ## Value Snapshot
 
-- Build retrieval-grounded AI systems with structured outputs for dependable API and tool integration.
-- Design FastAPI services with validation-first contracts and predictable failure handling.
-- Ship local LLM workflows with deterministic routing and inspectable execution paths.
+> Build retrieval-grounded AI systems with structured outputs for dependable API and tool integration.
+>
+> Design FastAPI services with validation-first contracts and predictable failure handling.
+>
+> Ship local LLM workflows with deterministic routing and inspectable execution paths.
 
 ## Featured Projects
 
-| Project | Why It Stands Out | Stack |
-| --- | --- | --- |
-| [AI Code Review Assistant](https://github.com/SR33H4R1/ai-code-review-assistant) | Multi-stage Python review and security triage with structured outputs and explainable feedback | Python, LangChain, Ollama |
-| [AI Supreme Court](https://github.com/SR33H4R1/ai-supreme-court) | Debate-style reasoning pipeline with prompt chaining and schema-constrained verdict generation | Python, LangChain |
-| [Local Math Agent](https://github.com/SR33H4R1/Local-Math-Agent-Llama3) | Natural language to deterministic JSON tool calls via strict prompting and predictable routing | Python, Ollama, Llama |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>AI Code Review Assistant</h3>
+      <p>Automated Python code review and security triage pipeline.</p>
+      <p><strong>Signal:</strong> Multi-stage review flow with structured, explainable output.</p>
+      <p><strong>Stack:</strong> Python, LangChain, Ollama</p>
+      <p><a href="https://github.com/SR33H4R1/ai-code-review-assistant">View Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI Supreme Court</h3>
+      <p>Debate-style reasoning pipeline with schema-constrained verdicts.</p>
+      <p><strong>Signal:</strong> Prompt chaining with controlled reasoning stages.</p>
+      <p><strong>Stack:</strong> Python, LangChain</p>
+      <p><a href="https://github.com/SR33H4R1/ai-supreme-court">View Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Local Math Agent</h3>
+      <p>Natural language to deterministic JSON tool-call agent.</p>
+      <p><strong>Signal:</strong> Strict prompting contracts and predictable routing.</p>
+      <p><strong>Stack:</strong> Python, Ollama, Llama</p>
+      <p><a href="https://github.com/SR33H4R1/Local-Math-Agent-Llama3">View Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
